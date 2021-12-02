@@ -114,6 +114,7 @@ Death, grave damage, major permanent damage, significant permanent damage, minor
 •	Age, severity, and private attorney are factors that affect payment
 
 **Recommendations for Action**
+
 •	Clients seeking private attorney representation may trigger the need to increase premiums as data suggested most payments were represented by private attorney and had maximum payments
 
 •	With 31% of the insurance unknown, a system should be put in place to identify insurance types for all clients
